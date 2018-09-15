@@ -1,0 +1,152 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+/*Navbar*/
+.navbar-custom {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background-color: white;
+}
+.service-offerd {
+  width: 100%;
+  padding: 0, 0, 0, 0;
+}
+.box1 {
+  background-color: red;
+  width: 100%;
+}
+.box2 {
+  background-color: blue;
+  widows: 100%;
+  height: 100px;
+}
+
+.portifolio-box {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.boxes {
+  position: relative;
+  display: block;
+  width: 25%;
+}
+
+header {
+  background-color: white;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#no_room {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.contact_info {
+  background-color: black;
+  height: 500px;
+  width: 50%;
+}
+#map {
+  height: 100%;
+  width: 100%;
+}
+.footer_inner {
+  background-color: darkgray;
+  height: 200px;
+}
+.contact_side {
+  text-align: center;
+  text-decoration-color: white;
+}
+
+/**Service Area**/
+.service-area {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("../img/ac_light_grey.jpg");
+  padding-bottom: 60px;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-attachment: fixed;
+}
+.service {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.text_box {
+  text-align: center justify;
+  padding: 40px;
+}
+text_area,
+p {
+  color: black;
+  font-size: 20px;
+}
+text_area,
+h3 {
+  font-size: 30px;
+}
+.text_box,
+h3 {
+  color: #d80027;
+}
+.text_box,
+h1 {
+  color: #006df0;
+  font-size: 50px;
+  font-weight: bold;
+}
+._box1 {
+  color: #006df0;
+  text-align: center;
+}
+._box2 {
+  color: #d80027;
+  text-align: center;
+}
+._box3 {
+  color: #006df0;
+  text-align: center;
+}
+.service-box {
+  text-align: center;
+}
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+/**Info box**/
+.carrier_logo {
+  height: 300px;
+  width: 300px;
+}
+
+/**Contact**/
+.contact-title {
+  text-align: center;
+}
+.info {
+  text-align: center;
+}
+.map {
+  text-align: center;
+}
+.info,
+h2 {
+  font-weight: bold;
+  padding-bottom: 30px;
+}
+.info,
+h3 {
+  padding-top: 40px;
+}
+/**Map**/
+#map {
+  height: 400px;
+  width: 100%;
+}
+/**Footer**/
+footer {
+  background-color: darkgrey;
+}
