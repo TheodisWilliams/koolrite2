@@ -1,0 +1,16 @@
+{
+  "name": "koolrite2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://TheodisWilliams.github.io/koolrite2",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
