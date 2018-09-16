@@ -121,8 +121,15 @@ img.center {
   height: 300px;
   width: 300px;
 }
+/**INFO**/
+#info {
+  background-color: white;
+}
 
 /**Contact**/
+#contact {
+  background-image: url("../img/cooling-black.jpg");
+}
 .contact-title {
   text-align: center;
 }
